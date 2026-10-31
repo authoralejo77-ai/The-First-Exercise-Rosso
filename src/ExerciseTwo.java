@@ -21,6 +21,6 @@ public class ExerciseTwo {
                 + "\nImpoconsumo (8%): $" + impoconsumo
                 + "\nPropina (" + tipPercentage + "%): $" + tip
                 + "\nTOTAL FACTURA: $" + totalBill
-                + "\n---> Cuota por cada amigo (" + numberOfPeople + " personas): $" + feePerPerson);
+                + "\nCuota por cada amigo (" + numberOfPeople + " personas): $" + feePerPerson);
     }
 }
